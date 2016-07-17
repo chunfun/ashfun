@@ -18,7 +18,7 @@ module ashman{
         }
 
         public update(time:number):void{
-            
+
         }
     }
 }
