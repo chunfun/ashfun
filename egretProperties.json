@@ -22,8 +22,8 @@
 			"name": "res"
 		},
 		{
-			"name": "ashfun",
-			"path": "/libsrc/ashfun"
+			"name": "ashman",
+			"path": "/libsrc/ashman"
 		}
 	]
 }
