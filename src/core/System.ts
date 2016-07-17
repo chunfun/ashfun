@@ -16,5 +16,9 @@ module ashman{
         constructor(parameters) {
             
         }
+
+        public update(time:number):void{
+            
+        }
     }
 }
