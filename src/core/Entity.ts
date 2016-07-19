@@ -4,7 +4,7 @@ module ashman{
     * Entity
     * 实体类由组件组成。因此，它必须有一个组件的集合
     */
-   class Entity {
+   export class Entity {
        private static nameCount:number = 0;
        /**
         * 实体名称
@@ -21,5 +21,6 @@ module ashman{
                this._name = "_entity"+(++Entity.nameCount);
            }
        }
+       
    }
 }

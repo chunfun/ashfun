@@ -3,7 +3,7 @@ module ashman{
     /**
      * System
      */
-    class System {
+    export class System {
         /**
          * manage the list of systems within the engine. The previous system in the list.
          */
