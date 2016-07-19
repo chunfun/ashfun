@@ -47,5 +47,6 @@ module ashman{
 				entity.next = null;
 			}
 			this.tail = null;
+        }
     }
 }
